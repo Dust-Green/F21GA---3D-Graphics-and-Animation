@@ -11,7 +11,7 @@ I started off making a model based off my most recent hobby/hyperfocus. My Canno
 <img src="Image References\Bike.PNG" alt="Gravel Bike" style="height: 400px; width:1200px;"/>
 <img src="Image References\BlendBike.PNG" alt="Bike Model" style="height: 400px; width:1200px;"/>
 
-I'm more or less happy with how this game out. I kept it simple and ignored alot of the complex modeling. So no gears, drivetrain, brakes, shifters, derailers etc.
+I'm more or less happy with how this came out. I kept it simple and ignored a lot of the complex modeling. So no gears, drivetrain, brakes, shifters, derailers etc.
 
 The wheels are seperated from the main body  of the bike(and each other) and all are made children to an empty axes. This was so that I could animate the wheels rolling easily if needed. I colored it blue just so that it would stand out a little compared to the plain black/graphite of my real bike. 
 
@@ -27,14 +27,14 @@ The other thing that's been taking up a lot of my free time has been Nintendo's 
 Trying to come up a with a scene for these two models seemed tricky as they started as my 'learning blender' models and I was just picking the first thing that seemed interesting to me. I had recently started watching the anime 'Yowamushi Pedal' again because of my previously mentioned hyper-fixation with bikes and this road cycling anime seems to have a lot of character scenes happen in front of outside vending machines so that became the backdrop for my scene and my third model. 
 
 <img src="Image References\Vending.PNG" alt="Vending Machine Reference" style="height: 400px; width:1200px;"/>
-<img src="Image References\YowaPeda.jpg" alt="Scene from Yowamushi Pedal" style="height: 400px; width:1200px;"/>
+<img src="Image References\YowaPeda.jpg" alt="Aoyagi from Yowamushi Pedal next to a vending machine" style="height: 400px; width:1200px;"/>
 <img src="Image References\VendBlend.PNG.jpg" alt="Vending Machine Model" style="height: px; width:px;"/>
 
-This was surprisingly tricky. I'm not super happy with how the internal part of the vending machine came out. Basing it off the photo apparently machines in Japan use buttons along individual shelves for selection rather then the number/letter keypads that I'm more familar with from the states. The shelves are also different heights and the glass texture was difficult to get working but it still came out 'workable' overall so I can't complain. 
+This was surprisingly difficult. I'm not super happy with how the internal part of the vending machine came out. Based off the photo reference apparently machines in Japan use buttons along individual shelves for selection rather then the number/letter keypads that I'm more familar with from the states. The shelves are also not evenly spaced and the glass texture was difficult to get working but it still came out 'workable' overall so I can't complain. 
 
 ## Drinks
 
-Following up that I didn't want to leave the vending machine empty and I made a personal rule not to use image textures as a way to skirt around making models for anything. Which might have been a silly restriction in the end but I think it helped me find different solutions to issues I encountered. I decided to go with two drinks that again show up frequently in 'Yowamushi Pedal'. Pocari Sweat, a popular sports drink in Japan. Similar to Gatorade in the US or Lucozade in the UK. Following that up I made a simple can of Pepsi/Bepsi. The show doesn't have the rights to US licensing so they can't use the actual name. I decided to play homage to that by actually shrinkwraping the text 'Bepsi' around the model can. 
+Following up that I didn't want to leave the vending machine empty and I made a personal rule not to use image textures as a way to skirt around making models for anything. Which might have been a silly restriction but I think it helped me find different solutions to issues I encountered. I decided to go with two drinks that again show up frequently in 'Yowamushi Pedal'. Pocari Sweat, a popular sports drink in Japan. Similar to Gatorade in the US or Lucozade in the UK. Following that up I made a simple can of Pepsi/Bepsi. The show doesn't have the rights to US licensing so they can't use the actual name. I decided to play homage to that by actually shrinkwraping the text 'Bepsi' around the model can. 
 
 <img src="Image References\DrinkBlend.PNG" alt="Drinks Model" style="height: px; width:px;"/>
 <img src="Image References\Bepsi.PNG" alt="Arakita with Bepsi" style="height: px; width:px;"/>
