@@ -1,0 +1,147 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.27",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Bike.001",
+            "scale" : [
+                1.302993893623352,
+                1.302993893623352,
+                1.302993893623352
+            ],
+            "translation" : [
+                18.153961181640625,
+                35.23173141479492,
+                22.281591415405273
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Material.006",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Vert",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "duel-8x.png.001",
+            "uri" : "../../../../Documents/GitHub/F21GA---3D-Graphics-and-Animation/Render/Blender/LoSpec%20Palettes/duel-8x.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 13813,
+            "max" : [
+                0.6538822650909424,
+                1.8098361492156982,
+                3.682560682296753
+            ],
+            "min" : [
+                -0.6913256645202637,
+                -2.889822006225586,
+                -4.796727180480957
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 13813,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 13813,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 21360,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 165756,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 165756,
+            "byteOffset" : 165756,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 110504,
+            "byteOffset" : 331512,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 42720,
+            "byteOffset" : 442016,
+            "target" : 34963
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9728,
+            "minFilter" : 9984
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 484736,
+            "uri" : "Bike.bin"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.27",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Bench",
+            "rotation" : [
+                0,
+                0,
+                -0.013611290603876114,
+                0.999907374382019
+            ],
+            "translation" : [
+                14.012423515319824,
+                34.8211784362793,
+                20.35036849975586
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Material.006",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "duel-8x.png.001",
+            "uri" : "../../../../Documents/GitHub/F21GA---3D-Graphics-and-Animation/Render/Blender/LoSpec%20Palettes/duel-8x.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 14364,
+            "max" : [
+                4.847754001617432,
+                2.8417420387268066,
+                5.613783836364746
+            ],
+            "min" : [
+                -2.9106879234313965,
+                -2.3659451007843018,
+                -3.1552481651306152
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 14364,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 14364,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 22224,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 172368,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 172368,
+            "byteOffset" : 172368,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 114912,
+            "byteOffset" : 344736,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 44448,
+            "byteOffset" : 459648,
+            "target" : 34963
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9728,
+            "minFilter" : 9984
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 504096,
+            "uri" : "BikeAndBench.bin"
+        }
+    ]
+}
