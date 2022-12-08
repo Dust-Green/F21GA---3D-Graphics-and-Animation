@@ -42,13 +42,13 @@ Following up that I didn't want to leave the vending machine empty and I made a 
 
 ## Bench
 
-Not much to say here but most of these outdoor vending machines in Japan seem to have seating nearby as sort of mini rest stops so I added a colorful bench to also add some more variety to the scene. It also makes blue the sort of main color that is then constrasted by the warmer colors from the hero shot and vending machine all mellowed out by the sun/sky. Plus blue these sort of light blues are my favorite colors so it becomes my default a lot.
+Not much to say here but most of these outdoor vending machines in Japan seem to have seating nearby as sort of mini rest stops so I added a colorful bench to also add some more variety to the scene. It also makes blue the sort of main color that is then constrasted by the warmer colors from the hero shot and vending machine all mellowed out by the sun/sky. Plus these sort of light blues are my favorite colors so it becomes my default color choice.
 
 <img src="Image References\BenchBlend.PNG" alt="Bench Model" style="height: px; width:px;"/>
 
 ## Trees and the Terrain 
 
-Last but not least the nature/outside bit. I struggled for awhile on how to make the trees. I found a lot of different tutorials and examples online that all tackled the problem in different ways but it took a while for any of the ideas or methods to really connect with my way of thinking. I settled on this pretty creative idea of using single vertices that you then add a 'skin' and 'subdivision surface' modifier to overall rig to create the body of the tree. Then using icospheres and the 'random' transform movement creates pretty interesting low poly leaves. I then used the same technique to make some bushes to fill in the hill. The hill is made up using a lot proportional editing to move around vertices and I like it. 
+Last but not least the nature/outside bit. I struggled for awhile on how to make the trees. I found a lot of different tutorials and examples online that all tackled the problem in different ways but it took a while for any of the ideas or methods to really connect with my way of thinking. I settled on this pretty creative idea of using single vertices that you then add a 'skin' and 'subdivision surface' modifier to the overall rig. This lets you create the body of the tree. Then using icospheres and the 'random' transform movement creates pretty interesting low poly leaves. I then used the same technique to make some bushes to fill in the hill. The hill is made up using a lot proportional editing to move around vertices and overall I am very pleased with the results. 
 
 <img src="Image References\TreeBlend.PNG" alt="Tree Model" style="height: px; width:px;"/>
 
